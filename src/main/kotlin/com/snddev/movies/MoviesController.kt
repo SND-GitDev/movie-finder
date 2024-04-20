@@ -20,11 +20,29 @@ class MoviesController(
     }
 
     @GetMapping(
+        path = ["/movies/v1/genres/list/sync"],
+        produces = [MediaType.APPLICATION_JSON_VALUE]
+    )
+    fun syncGenres(): ResponseEntity<*> {
+        moviesService.syncGenres()
+        return ResponseEntity("Genres Synchronized!", HttpStatusCode.valueOf(200))
+    }
+
+    @GetMapping(
         path = ["/movies/v1/movies/list"],
         produces = [MediaType.APPLICATION_JSON_VALUE]
     )
     fun getMovies(): ResponseEntity<*> {
         val movies = moviesService.getMovies()
         return ResponseEntity(movies, HttpStatusCode.valueOf(200))
+    }
+
+    @GetMapping(
+        path = ["/movies/v1/movies/list/sync"],
+        produces = [MediaType.APPLICATION_JSON_VALUE]
+    )
+    fun syncMovies(): ResponseEntity<*> {
+        moviesService.syncMovies()
+        return ResponseEntity("Movies Synchronized!", HttpStatusCode.valueOf(200))
     }
 }
