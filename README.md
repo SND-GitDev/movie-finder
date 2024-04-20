@@ -14,6 +14,27 @@ This is the codebase the Movie Finder Application built in kotlin & spring-boot
 
 This should run a server at localhost:8080 with a Hazelcast Cache
 
+# Sample cURL Commands:
+Make sure the server is running
+
+Always start with the `sync` commands to populate the cache
+
+Populate the cache with:
+```bash
+curl --location --request GET localhost:8080/movies/v1/genres/list/sync
+```
+```bash
+curl --location --request GET localhost:8080/movies/v1/movies/list/sync
+```
+
+List the contents from the cache with:
+```bash
+curl --location --request GET localhost:8080/movies/v1/genres/list
+```
+```bash
+curl --location --request GET localhost:8080/movies/v1/movies/list
+```
+
 # Current Features:
 1) Synchronize & Cache Genres
 2) Synchronize & Cache Movies
