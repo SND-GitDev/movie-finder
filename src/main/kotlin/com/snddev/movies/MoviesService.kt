@@ -1,6 +1,5 @@
 package com.snddev.movies
 
-import com.fasterxml.jackson.annotation.JsonProperty
 import javax.inject.Named
 
 
@@ -11,6 +10,15 @@ class MoviesService(
     fun getGenres() : List<Genre>{
         return moviesClient.getGenres().genres
     }
+
+    fun getMovies() : List<Movie>{
+        return moviesClient.getMovies().results.map {
+            Movie(
+                genreIds = it.genreIds,
+                title = it.title
+            )
+        }
+    }
 }
 
 data class Genre(
@@ -18,7 +26,7 @@ data class Genre(
     val name: String
 )
 
-data class TMDBGenres(
-    @JsonProperty("genres")
-    val genres: List<Genre>
+data class Movie(
+    val genreIds : List<Long>,
+    val title: String
 )

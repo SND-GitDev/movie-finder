@@ -18,4 +18,13 @@ class MoviesController(
         val genres = moviesService.getGenres()
         return ResponseEntity(genres, HttpStatusCode.valueOf(200))
     }
+
+    @GetMapping(
+        path = ["/movies/v1/movies/list"],
+        produces = [MediaType.APPLICATION_JSON_VALUE]
+    )
+    fun getMovies(): ResponseEntity<*> {
+        val movies = moviesService.getMovies()
+        return ResponseEntity(movies, HttpStatusCode.valueOf(200))
+    }
 }
