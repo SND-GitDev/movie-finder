@@ -69,5 +69,9 @@ data class TMDBMovie(
     @JsonProperty("genre_ids")
     val genreIds : List<Long>,
     @JsonProperty("title")
-    val title: String
+    val title: String,
+    @JsonProperty("poster_path")
+    val posterPath: String,
+    @JsonProperty("overview")
+    val overview: String
 )

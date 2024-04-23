@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController
 @RestController
 class MoviesController(
     private val moviesService: MoviesService
-){
+) {
     @GetMapping(
         path = ["/movies/v1/genres/list"],
         produces = [MediaType.APPLICATION_JSON_VALUE]
