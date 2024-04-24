@@ -31,7 +31,7 @@ class MoviesClient {
         return response.body ?: TMDBGenres(genres = listOf())
     }
 
-    fun getMovies(): TMDBDiscoverResponse {
+    fun getMovies(page: Long): TMDBDiscoverResponse {
         val headers = HttpHeaders()
         headers.contentType = MediaType.APPLICATION_JSON
         headers.add(
@@ -41,7 +41,7 @@ class MoviesClient {
         val restTemplate = RestTemplate()
         val request = HttpEntity("", headers)
         val response = restTemplate.exchange(
-            "$rootTMDBURL/3/discover/movie",
+            "$rootTMDBURL/3/discover/movie?page=$page",
             HttpMethod.GET,
             request,
             TMDBDiscoverResponse::class.java

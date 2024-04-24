@@ -25,27 +25,32 @@ class MoviesController(
         produces = [MediaType.APPLICATION_JSON_VALUE]
     )
     fun syncGenres(): ResponseEntity<*> {
-        moviesService.syncGenres()
-        return ResponseEntity("Genres Synchronized!", HttpStatusCode.valueOf(200))
+        return ResponseEntity(moviesService.syncGenres(), HttpStatusCode.valueOf(200))
+    }
+
+    @GetMapping(
+        path = ["/movies/v1/movies/list"],
+        produces = [MediaType.APPLICATION_JSON_VALUE]
+    )
+    fun getMovies(): ResponseEntity<*> {
+        val movies = moviesService.getMovies()
+        return ResponseEntity(movies, HttpStatusCode.valueOf(200))
     }
 
     @GetMapping(
         path = ["/movies/v1/movies/list/{page}"],
         produces = [MediaType.APPLICATION_JSON_VALUE]
     )
-    fun getMovies(
-        @PathVariable page: Long?
-    ): ResponseEntity<*> {
+    fun getMoviesPage(@PathVariable page: Long): ResponseEntity<*> {
         val movies = moviesService.getMovies(page)
         return ResponseEntity(movies, HttpStatusCode.valueOf(200))
     }
 
     @GetMapping(
-        path = ["/movies/v1/movies/list/sync"],
+        path = ["/movies/v1/movies/list/{page}/sync"],
         produces = [MediaType.APPLICATION_JSON_VALUE]
     )
-    fun syncMovies(): ResponseEntity<*> {
-        moviesService.syncMovies()
-        return ResponseEntity("Movies Synchronized!", HttpStatusCode.valueOf(200))
+    fun syncMovies(@PathVariable page: Long): ResponseEntity<*> {
+        return ResponseEntity(moviesService.syncMovies(page), HttpStatusCode.valueOf(200))
     }
 }
