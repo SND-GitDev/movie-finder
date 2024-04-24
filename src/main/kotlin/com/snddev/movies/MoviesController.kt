@@ -4,6 +4,7 @@ import org.springframework.http.HttpStatusCode
 import org.springframework.http.MediaType
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping
+import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RestController
 
 @RestController
@@ -29,11 +30,13 @@ class MoviesController(
     }
 
     @GetMapping(
-        path = ["/movies/v1/movies/list"],
+        path = ["/movies/v1/movies/list/{page}"],
         produces = [MediaType.APPLICATION_JSON_VALUE]
     )
-    fun getMovies(): ResponseEntity<*> {
-        val movies = moviesService.getMovies()
+    fun getMovies(
+        @PathVariable page: Long?
+    ): ResponseEntity<*> {
+        val movies = moviesService.getMovies(page)
         return ResponseEntity(movies, HttpStatusCode.valueOf(200))
     }
 

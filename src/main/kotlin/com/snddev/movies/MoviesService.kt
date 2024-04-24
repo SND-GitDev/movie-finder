@@ -11,8 +11,9 @@ class MoviesService(
         return genresCache[GENRES_CACHE_KEY] ?: listOf()
     }
 
-    fun getMovies(): List<Movie> {
-        return moviesCache[MOVIES_CACHE_KEY] ?: listOf()
+    fun getMovies(page: Long?): List<Movie> {
+        val validPage = page ?: 1
+        return moviesCache[MOVIES_CACHE_KEY]?.get(validPage) ?: listOf()
     }
 
     fun syncGenres() {
@@ -21,11 +22,11 @@ class MoviesService(
     }
 
     fun syncMovies() {
-        val movies = moviesClient.getMovies().results.mapToMovie()
-        moviesCache[MOVIES_CACHE_KEY] = movies
+        val response = moviesClient.getMovies()
+        moviesCache[MOVIES_CACHE_KEY]?.set(response.page, response.results.mapToMovie())
     }
 
-    private fun List<TMDBMovie>.mapToMovie() = this.map {
+    private fun List<TMDBMovie>.mapToMovie(): List<Movie> = this.map {
         Movie(
             genreIds = it.genreIds,
             title = it.title,
@@ -51,4 +52,4 @@ const val GENRES_CACHE_KEY = "genres"
 const val MOVIES_CACHE_KEY = "movies"
 
 val genresCache = cacheInstance.getMap<String, List<Genre>>(GENRES_CACHE_KEY)
-val moviesCache = cacheInstance.getMap<String, List<Movie>>(MOVIES_CACHE_KEY)
+val moviesCache = cacheInstance.getMap<String, MutableMap<Long, List<Movie>>>(MOVIES_CACHE_KEY)
