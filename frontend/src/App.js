@@ -3,15 +3,11 @@ import { MDBCol, MDBContainer, MDBRow, MDBInput } from "mdb-react-ui-kit";
 import axios from "axios";
 import { useState, useEffect } from "react";
 
-// import genreListData from "./data/genres.json"
-// import movieListData from "./data/movies.json"
-
 function App() {
   const [genres, setGenres] = useState([]);
   const [movies, setMovies] = useState([]);
   const [activeGenre, setActiveGenre] = useState(0);
   
-  console.log("activeGenre", activeGenre)
   useEffect(() => {
     axios
       .get("/movies/v1/genres/list")
@@ -39,17 +35,16 @@ function App() {
   let genreCells =  genres.map(
       (genre) => (<Genre key= {genre.id} id={genre.id} name={genre.name} setActiveGenre={setActiveGenre} />)
     )
-  
-    let filteredMovies = movies.filter((movie)=> {
-      console.log(movie.genreIds.includes(activeGenre))
-      return movie.genreIds.includes(activeGenre)
-    })
-    console.log("filteredMovies", filteredMovies)
+
+  let movieList = Object.values(movies).flat()
+
+  let filteredMovies = movieList.filter((movie)=> {
+    return movie.genreIds.includes(activeGenre)
+  })
 
   let movieCells =  filteredMovies.map(
     (movie) => (<Movie key= {movie.name} genreIds={movie.genreIds} title={movie.title} image={movie.posterPath} overview={movie.overview}/>)
   )
-
 
   return (
     <div className="row vh-100 bg-dark p-3 py-4">

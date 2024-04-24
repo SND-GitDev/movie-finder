@@ -1,203 +1,595 @@
-[
-    {
-        "genreIds": [
-            28,
-            878,
-            12,
-            14
-        ],
-        "title": "Godzilla x Kong: The New Empire",
-        "posterPath": "/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg",
-        "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own."
-    },
-    {
-        "genreIds": [
-            878,
-            12
-        ],
-        "title": "Dune: Part Two",
-        "posterPath": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
-        "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee."
-    },
-    {
-        "genreIds": [
-            16,
-            28,
-            10751,
-            35,
-            14
-        ],
-        "title": "Kung Fu Panda 4",
-        "posterPath": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
-        "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past."
-    },
-    {
-        "genreIds": [
-            28,
-            27,
-            53
-        ],
-        "title": "No Way Up",
-        "posterPath": "/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
-        "overview": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides."
-    },
-    {
-        "genreIds": [
-            28,
-            80,
-            53
-        ],
-        "title": "Damaged",
-        "posterPath": "/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
-        "overview": "A Chicago detective travels to Scotland after an emerging serial killer’s crimes match those that he investigated five years earlier, one of which was the crime scene of his murdered girlfriend."
-    },
-    {
-        "genreIds": [
-            878,
-            9648,
-            53,
-            28
-        ],
-        "title": "Breathe",
-        "posterPath": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
-        "overview": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven."
-    },
-    {
-        "genreIds": [
-            12,
-            28,
-            18
-        ],
-        "title": "The Three Musketeers: Milady",
-        "posterPath": "/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg",
-        "overview": "D'Artagnan, on a quest to rescue the abducted Constance, runs into the mysterious Milady de Winter again. The tension between the Catholics and the Protestants finally escalates, as the king declares war — forcing the now four musketeers into battle. But as the war goes on, they are tested physically, mentally and emotionally."
-    },
-    {
-        "genreIds": [
-            878,
-            28,
-            14,
-            12
-        ],
-        "title": "Alienoid",
-        "posterPath": "/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
-        "overview": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up."
-    },
-    {
-        "genreIds": [
-            28,
-            53
-        ],
-        "title": "Road House",
-        "posterPath": "/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg",
-        "overview": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems."
-    },
-    {
-        "genreIds": [
-            16,
-            28,
-            12,
-            35,
-            10751
-        ],
-        "title": "Migration",
-        "posterPath": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
-        "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica."
-    },
-    {
-        "genreIds": [
-            878,
-            28,
-            18,
-            10770
-        ],
-        "title": "Rebel Moon - Part Two: The Scargiver",
-        "posterPath": "/cxevDYdeFkiixRShbObdwAHBZry.jpg",
-        "overview": "The rebels gear up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made."
-    },
-    {
-        "genreIds": [
-            28,
-            14
-        ],
-        "title": "Madame Web",
-        "posterPath": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-        "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present."
-    },
-    {
-        "genreIds": [
-            27,
-            9648,
-            53
-        ],
-        "title": "Immaculate",
-        "posterPath": "/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
-        "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors."
-    },
-    {
-        "genreIds": [
-            10751,
-            35,
-            16
-        ],
-        "title": "Woody Woodpecker Goes to Camp",
-        "posterPath": "/mMnzNYvpqLLLdgF5TMmXfuy6wzx.jpg",
-        "overview": "After getting kicked out of the forest, Woody thinks he's found a forever home at Camp Woo Hoo — until an inspector threatens to shut down the camp."
-    },
-    {
-        "genreIds": [
-            10752,
-            28,
-            18
-        ],
-        "title": "Civil War",
-        "posterPath": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
-        "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war."
-    },
-    {
-        "genreIds": [
-            28,
-            53
-        ],
-        "title": "The Wages of Fear",
-        "posterPath": "/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg",
-        "overview": "When an explosion at an oil well threatens hundreds of lives, a crack team is called upon to make a deadly desert crossing with nitroglycerine in tow."
-    },
-    {
-        "genreIds": [
-            28,
-            35
-        ],
-        "title": "Outsource",
-        "posterPath": "/zIAF0UXtCJTJOYNYWiBfyifaaOi.jpg",
-        "overview": "A police chief hires an old friend, who is an international spy, to help him search for a wanted suspect in the Philippines. When the chief dies, all evidence points towards the spy, and he must go to extremes to defend himself."
-    },
-    {
-        "genreIds": [
-            878,
-            28
-        ],
-        "title": "After the Pandemic",
-        "posterPath": "/p1LbrdJ53dGfEhRopG71akfzOVu.jpg",
-        "overview": "Set in a post-apocalyptic world where a global airborne pandemic has wiped out 90% of the Earth's population and only the young and immune have endured as scavengers. For Ellie and Quinn, the daily challenges to stay alive are compounded when they become hunted by the merciless Stalkers."
-    },
-    {
-        "genreIds": [
-            28,
-            80,
-            18,
-            53
-        ],
-        "title": "Hard Hit",
-        "posterPath": "/y2Aimt8isimtigec3e4kB2G9FMR.jpg",
-        "overview": "On his way to work, a bank manager receives an anonymous call claiming there's a bomb under his car seat, and if anyone exits the car, it will explode unless he can pay a ransom."
-    },
-    {
-        "genreIds": [
-            18
-        ],
-        "title": "Carmen 1945",
-        "posterPath": "/raNbLci95MJ3L3dMnG7L7bD37lY.jpg",
-        "overview": "Prostitutes in burnt out Tokyo ghetto of post-WWII Japan peddle their flesh and save one-third of their money for a proposed dancehall to be named Paradise. The hookers live in a bombed-out building, but they accept the precarious situation with typical resolve."
-    }
-]
+{
+    "2": [
+        {
+            "genreIds": [
+                10752,
+                28,
+                18
+            ],
+            "title": "Civil War",
+            "posterPath": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war."
+        },
+        {
+            "genreIds": [
+                28,
+                53,
+                10752
+            ],
+            "title": "Land of Bad",
+            "posterPath": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+            "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy."
+        },
+        {
+            "genreIds": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "title": "Hard Hit",
+            "posterPath": "/y2Aimt8isimtigec3e4kB2G9FMR.jpg",
+            "overview": "On his way to work, a bank manager receives an anonymous call claiming there's a bomb under his car seat, and if anyone exits the car, it will explode unless he can pay a ransom."
+        },
+        {
+            "genreIds": [
+                878,
+                12
+            ],
+            "title": "Dune",
+            "posterPath": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+            "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive."
+        },
+        {
+            "genreIds": [
+                878,
+                28
+            ],
+            "title": "After the Pandemic",
+            "posterPath": "/p1LbrdJ53dGfEhRopG71akfzOVu.jpg",
+            "overview": "Set in a post-apocalyptic world where a global airborne pandemic has wiped out 90% of the Earth's population and only the young and immune have endured as scavengers. For Ellie and Quinn, the daily challenges to stay alive are compounded when they become hunted by the merciless Stalkers."
+        },
+        {
+            "genreIds": [
+                18,
+                36
+            ],
+            "title": "Oppenheimer",
+            "posterPath": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+            "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II."
+        },
+        {
+            "genreIds": [
+                10749,
+                18
+            ],
+            "title": "The Tearsmith",
+            "posterPath": "/uoBHsxSgfc3PQsSn98RfnbePHOy.jpg",
+            "overview": "Adopted together after a tough childhood in an orphanage, Nica and Rigel realize that unexpected but irresistible feelings pull them together."
+        },
+        {
+            "genreIds": [
+                27,
+                53,
+                35
+            ],
+            "title": "Abigail",
+            "posterPath": "/5Uq8P6MPj9Ppsns5t82AiCiUaWE.jpg",
+            "overview": "After a group of would-be criminals kidnap the 12 year old ballerina daughter of a powerful underworld figure, all they have to do to collect a $50 million ransom is watch the girl overnight. In an isolated mansion, the captors start to dwindle, one by one, and they discover, to their mounting horror, that they’re locked inside with no normal little girl."
+        },
+        {
+            "genreIds": [
+                878,
+                18,
+                28
+            ],
+            "title": "Rebel Moon - Part One: A Child of Fire",
+            "posterPath": "/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+            "overview": "When a peaceful colony on the edge of the galaxy finds itself threatened by the armies of the tyrannical Regent Balisarius, they dispatch Kora, a young woman with a mysterious past, to seek out warriors from neighboring planets to help them take a stand."
+        },
+        {
+            "genreIds": [
+                28,
+                80,
+                53
+            ],
+            "title": "Fast X",
+            "posterPath": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+            "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever."
+        },
+        {
+            "genreIds": [
+                35,
+                10751,
+                14
+            ],
+            "title": "Wonka",
+            "posterPath": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+            "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible."
+        },
+        {
+            "genreIds": [
+                14,
+                28,
+                12
+            ],
+            "title": "Damsel",
+            "posterPath": "/AgHbB9DCE9aE57zkHjSmseszh6e.jpg",
+            "overview": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon."
+        },
+        {
+            "genreIds": [
+                28,
+                12,
+                878
+            ],
+            "title": "Thor: Ragnarok",
+            "posterPath": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+            "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela."
+        },
+        {
+            "genreIds": [
+                28,
+                9648,
+                53
+            ],
+            "title": "Heart of the Hunter",
+            "posterPath": "/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg",
+            "overview": "A retired assassin is pulled back into action when his friend uncovers a dangerous conspiracy at the heart of the South African government."
+        },
+        {
+            "genreIds": [
+                28,
+                14,
+                10752
+            ],
+            "title": "Creation of the Gods I: Kingdom of Storms",
+            "posterPath": "/ccJpK0rqzhQeP7Mrs2uKqObFY4L.jpg",
+            "overview": "Based on the most well-known classical fantasy novel of China, Fengshenyanyi, the trilogy is a magnificent eastern high fantasy epic that recreates the prolonged mythical wars between humans, immortals and monsters, which happened more than three thousand years ago."
+        },
+        {
+            "genreIds": [
+                9648,
+                27,
+                53
+            ],
+            "title": "Exhuma",
+            "posterPath": "/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+            "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains—and soon discovers what happens to those who dare to mess with the wrong grave."
+        },
+        {
+            "genreIds": [
+                28,
+                12,
+                53,
+                80
+            ],
+            "title": "xXx",
+            "posterPath": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+            "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
+        },
+        {
+            "genreIds": [
+                27
+            ],
+            "title": "Late Night with the Devil",
+            "posterPath": "/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg",
+            "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms."
+        },
+        {
+            "genreIds": [
+                35,
+                878,
+                28
+            ],
+            "title": "Deadpool & Wolverine",
+            "posterPath": "/ajnzOECvXpa7VcVx0RSlq39XgHe.jpg",
+            "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA."
+        },
+        {
+            "genreIds": [
+                28,
+                53
+            ],
+            "title": "Jade",
+            "posterPath": "/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg",
+            "overview": "Jade presents the story of a woman who comes between a powerful businessman and a gang leader in their search for a hard drive that could damage the operations of Interpol. Despite grieving for the brother she accidentally killed, the woman is required to use her unique set of skills to retrieve the drive and protect her brother's unborn child being carried by another woman."
+        }
+    ],
+    "5": [
+        {
+            "genreIds": [
+                12,
+                28,
+                878
+            ],
+            "title": "Avengers: Infinity War",
+            "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+            "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain."
+        },
+        {
+            "genreIds": [
+                28,
+                18,
+                80
+            ],
+            "title": "Dogman",
+            "posterPath": "/yZGdlrKxglrWciRl0Rs6lAjfPHM.jpg",
+            "overview": "A boy, bruised by life, finds his salvation through the love of his dogs."
+        },
+        {
+            "genreIds": [
+                28,
+                14,
+                35
+            ],
+            "title": "Ghostbusters",
+            "posterPath": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+            "overview": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat."
+        },
+        {
+            "genreIds": [
+                878,
+                18
+            ],
+            "title": "Blade Runner 2049",
+            "posterPath": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years."
+        },
+        {
+            "genreIds": [
+                28,
+                12,
+                878
+            ],
+            "title": "The Flash",
+            "posterPath": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+            "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?"
+        },
+        {
+            "genreIds": [
+                16,
+                10751,
+                18,
+                12,
+                14
+            ],
+            "title": "Inside Out 2",
+            "posterPath": "/xeqXXTE1Cd3qNaAEOT6qbhhCsgJ.jpg",
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone."
+        },
+        {
+            "genreIds": [
+                35
+            ],
+            "title": "The Roommate",
+            "posterPath": "/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg",
+            "overview": "Vivi is a young writer who is forced to find a roommate to pay the mortgage on her apartment. What she does not suspect is that Roy, the supposed perfect partner she found, has a peculiar lifestyle: he never pays rent."
+        },
+        {
+            "genreIds": [
+                53,
+                27
+            ],
+            "title": "Cold Meat",
+            "posterPath": "/wcxY0sZhkWRVGz070HrIFmxi6Em.jpg",
+            "overview": "David Petersen is passing through the Colorado Rockies. After saving a young diner waitress from her violent ex-husband during a break from driving, he hits the road again alone through a dangerous snow blizzard. One false move behind the wheel has him waking up inside a ravine, in the eye of the storm. But the cold is the least of his worries when a beast starts prowling outside. How will he survive?"
+        },
+        {
+            "genreIds": [
+                27,
+                878
+            ],
+            "title": "Alien",
+            "posterPath": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed."
+        },
+        {
+            "genreIds": [
+                28,
+                18,
+                878
+            ],
+            "title": "Logan",
+            "posterPath": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+            "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces."
+        },
+        {
+            "genreIds": [
+                28,
+                12,
+                878
+            ],
+            "title": "Spider-Man: No Way Home",
+            "posterPath": "/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+        },
+        {
+            "genreIds": [
+                878,
+                12,
+                28
+            ],
+            "title": "Avatar: The Way of Water",
+            "posterPath": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
+        },
+        {
+            "genreIds": [
+                10749,
+                35
+            ],
+            "title": "Love, Divided",
+            "posterPath": "/zvrkAXaFFPpJCFcus18qlsGfOrz.jpg",
+            "overview": "She’s a young pianist preparing for an audition. He is a games inventor who can only concentrate in complete silence. Separated by only a paper-thin wall in conjoined apartments, will they learn to live in harmony with one another? Will romance blossom through the wall?"
+        },
+        {
+            "genreIds": [
+                10751,
+                14,
+                35
+            ],
+            "title": "Princess Cursed in Time: Alchemist's Quest",
+            "posterPath": "/ywzbF5YSBfZ7XqcGO9YR6Gy4VFt.jpg",
+            "overview": "It follows young alchemist Amélie as she acquires a magical power: partially influencing the flow of time. But she is split in time, and Amélie from the present meets Améliw from the past, who accompanies her every step of the way."
+        },
+        {
+            "genreIds": [
+                14,
+                16,
+                12
+            ],
+            "title": "Howl's Moving Castle",
+            "posterPath": "/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg",
+            "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king."
+        },
+        {
+            "genreIds": [
+                878,
+                9648,
+                12
+            ],
+            "title": "2001: A Space Odyssey",
+            "posterPath": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
+        },
+        {
+            "genreIds": [
+                27
+            ],
+            "title": "Don't Look at the Demon",
+            "posterPath": "/wSfQ0JEjoeVeVCQR3bmMLl6xBHK.jpg",
+            "overview": "A spiritual medium leads a paranormal investigative TV crew to a haunted home only to discover that the evil spirit she’s facing holds the key to her troubled past."
+        },
+        {
+            "genreIds": [
+                80,
+                9648,
+                53
+            ],
+            "title": "The Batman",
+            "posterPath": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler."
+        },
+        {
+            "genreIds": [
+                27,
+                53
+            ],
+            "title": "My Mother's Eyes",
+            "posterPath": "/63QRcmHE4fiToVFY6Ds19nqIOoA.jpg",
+            "overview": "Both Hitomi and her daughter Eri are cellists. One day, they are involved in a traffic accident and Hitomi loses her sight. She wears camera-equipped contact lenses and Eri, injured and hospitalized, wears VR goggles, and the two share one vision."
+        },
+        {
+            "genreIds": [
+                28
+            ],
+            "title": "The Weapon",
+            "posterPath": "/slQYCDzCMM8SBh9Xa3aPeM2fekA.jpg",
+            "overview": "Dallas is a one-man killing machine on a mysterious rampage. His attacks on biker gangs and meth labs anger the Vegas mob boss who’s holding Dallas’ girlfriend hostage. But who is Dallas working for? Even torture won’t make him talk, and he won’t stop until justice is served."
+        }
+    ],
+    "1": [
+        {
+            "genreIds": [
+                28,
+                27,
+                53
+            ],
+            "title": "No Way Up",
+            "posterPath": "/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+            "overview": "Characters from different backgrounds are thrown together when the plane they're travelling on crashes into the Pacific Ocean. A nightmare fight for survival ensues with the air supply running out and dangers creeping in from all sides."
+        },
+        {
+            "genreIds": [
+                28,
+                878,
+                12,
+                14
+            ],
+            "title": "Godzilla x Kong: The New Empire",
+            "posterPath": "/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg",
+            "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own."
+        },
+        {
+            "genreIds": [
+                16,
+                28,
+                10751,
+                35,
+                14
+            ],
+            "title": "Kung Fu Panda 4",
+            "posterPath": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+            "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past."
+        },
+        {
+            "genreIds": [
+                878,
+                12
+            ],
+            "title": "Dune: Part Two",
+            "posterPath": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+            "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee."
+        },
+        {
+            "genreIds": [
+                878,
+                28,
+                18,
+                10770
+            ],
+            "title": "Rebel Moon - Part Two: The Scargiver",
+            "posterPath": "/aqKtSJdsUYNhEYfV42AYpamhEle.jpg",
+            "overview": "The rebels gear up for battle against the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made."
+        },
+        {
+            "genreIds": [
+                12,
+                28,
+                18
+            ],
+            "title": "The Three Musketeers: Milady",
+            "posterPath": "/rtosxP5sXuoRFPH4sVbMccLIPiV.jpg",
+            "overview": "D'Artagnan, on a quest to rescue the abducted Constance, runs into the mysterious Milady de Winter again. The tension between the Catholics and the Protestants finally escalates, as the king declares war — forcing the now four musketeers into battle. But as the war goes on, they are tested physically, mentally and emotionally."
+        },
+        {
+            "genreIds": [
+                27,
+                9648,
+                53
+            ],
+            "title": "Immaculate",
+            "posterPath": "/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
+            "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors."
+        },
+        {
+            "genreIds": [
+                28,
+                80,
+                53
+            ],
+            "title": "Damaged",
+            "posterPath": "/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+            "overview": "A Chicago detective travels to Scotland after an emerging serial killer’s crimes match those that he investigated five years earlier, one of which was the crime scene of his murdered girlfriend."
+        },
+        {
+            "genreIds": [
+                28,
+                53
+            ],
+            "title": "Road House",
+            "posterPath": "/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg",
+            "overview": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems."
+        },
+        {
+            "genreIds": [
+                878,
+                9648,
+                53,
+                28
+            ],
+            "title": "Breathe",
+            "posterPath": "/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg",
+            "overview": "Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven."
+        },
+        {
+            "genreIds": [
+                16,
+                28,
+                12,
+                35,
+                10751
+            ],
+            "title": "Migration",
+            "posterPath": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+            "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica."
+        },
+        {
+            "genreIds": [
+                878,
+                28,
+                14,
+                12
+            ],
+            "title": "Alienoid",
+            "posterPath": "/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
+            "overview": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up."
+        },
+        {
+            "genreIds": [
+                28,
+                53,
+                10752
+            ],
+            "title": "Fighter",
+            "posterPath": "/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg",
+            "overview": "Top IAF aviators come together in the face of imminent danger, to form Air Dragons. Fighter unfolds their camaraderie, brotherhood and battles, internal and external."
+        },
+        {
+            "genreIds": [
+                10751,
+                35,
+                16
+            ],
+            "title": "Woody Woodpecker Goes to Camp",
+            "posterPath": "/mMnzNYvpqLLLdgF5TMmXfuy6wzx.jpg",
+            "overview": "After getting kicked out of the forest, Woody thinks he's found a forever home at Camp Woo Hoo — until an inspector threatens to shut down the camp."
+        },
+        {
+            "genreIds": [
+                28,
+                35
+            ],
+            "title": "Outsource",
+            "posterPath": "/zIAF0UXtCJTJOYNYWiBfyifaaOi.jpg",
+            "overview": "A police chief hires an old friend, who is an international spy, to help him search for a wanted suspect in the Philippines. When the chief dies, all evidence points towards the spy, and he must go to extremes to defend himself."
+        },
+        {
+            "genreIds": [
+                28,
+                14
+            ],
+            "title": "Madame Web",
+            "posterPath": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+            "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present."
+        },
+        {
+            "genreIds": [
+                878,
+                12,
+                28
+            ],
+            "title": "Kingdom of the Planet of the Apes",
+            "posterPath": "/r7Ymod44pKV2lsLzniF4GxTg3X8.jpg",
+            "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike."
+        },
+        {
+            "genreIds": [
+                18
+            ],
+            "title": "Carmen 1945",
+            "posterPath": "/raNbLci95MJ3L3dMnG7L7bD37lY.jpg",
+            "overview": "Prostitutes in burnt out Tokyo ghetto of post-WWII Japan peddle their flesh and save one-third of their money for a proposed dancehall to be named Paradise. The hookers live in a bombed-out building, but they accept the precarious situation with typical resolve."
+        },
+        {
+            "genreIds": [
+                14,
+                12,
+                35
+            ],
+            "title": "Ghostbusters: Frozen Empire",
+            "posterPath": "/6faYaQyiBPhqAizldJKq21mIVaE.jpg",
+            "overview": "The Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age."
+        },
+        {
+            "genreIds": [
+                28,
+                53
+            ],
+            "title": "The Wages of Fear",
+            "posterPath": "/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg",
+            "overview": "When an explosion at an oil well threatens hundreds of lives, a crack team is called upon to make a deadly desert crossing with nitroglycerine in tow."
+        }
+    ]
+}
